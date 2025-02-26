@@ -1,0 +1,4 @@
+First=input("Enter your first Name: ")
+Second=input("Enter your second Name: ")
+
+print(f'Hello, {First} {Second}! welcome to the python programing')
